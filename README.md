@@ -1,6 +1,8 @@
 # Pong AI Model Training
 
-<img src="assets/pong_ai_banner.png" alt="Pong AI" style="height:150px;">
+<p align="center">
+  <img src="assets/pong_ai_banner.png" alt="Pong AI" style="height:220px;">
+</p>
 
 ## Overview
 
