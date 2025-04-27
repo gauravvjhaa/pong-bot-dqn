@@ -1,6 +1,6 @@
 # Pong AI Model Training
 
-![Pong AI](assets/pong_ai_banner2.png)
+![Pong AI](assets/pong_ai_banner_2.png)
 
 ## Overview
 
